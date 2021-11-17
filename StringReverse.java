@@ -4,6 +4,6 @@ class StringReverse
 	{
 		String str="Adnan";
 		char ch[] = str.toCharArray();
-		System.out.println(ch+" "+ch.lenght);
+		System.out.println(ch+" "+ch.length);
 	}
 }
